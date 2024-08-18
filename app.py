@@ -6,3 +6,6 @@ def sum_func(num1, num2):
 for i in range(12):
     print(i)
 
+def uslu_sayi(x, y):
+    result = x ** y
+    result = result + 5
